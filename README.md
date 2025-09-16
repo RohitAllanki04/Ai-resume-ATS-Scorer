@@ -58,8 +58,4 @@ Follow these steps to set up the project locally.
 - [Node.js](https://nodejs.org/en)  
 - [npm](https://www.npmjs.com/)
 
-**Cloning the Repository**
 
-```bash
-git clone https://github.com/your-username/ai-resume-analyzer.git
-cd ai-resume-analyzer
